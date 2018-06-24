@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	cout << "coucou"<< endl;
+	cout << "Hello World"<< endl;
 
 }
 // This is a second change to my file. With a final dot.
